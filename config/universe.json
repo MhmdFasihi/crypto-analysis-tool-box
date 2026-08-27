@@ -1,0 +1,60 @@
+{
+  "assets": [
+    {
+      "key": "BTC",
+      "name": "Bitcoin",
+      "ticker": "BTC-USD",
+      "asset_class": "Crypto",
+      "note": "Trades 7 days a week."
+    },
+    {
+      "key": "ETH",
+      "name": "Ethereum",
+      "ticker": "ETH-USD",
+      "asset_class": "Crypto",
+      "note": "Trades 7 days a week."
+    },
+    {
+      "key": "SPX",
+      "name": "S&P 500",
+      "ticker": "^GSPC",
+      "asset_class": "Equity",
+      "note": "Price index, excludes dividends."
+    },
+    {
+      "key": "NDX",
+      "name": "Nasdaq 100",
+      "ticker": "^NDX",
+      "asset_class": "Equity",
+      "note": "Price index, excludes dividends."
+    },
+    {
+      "key": "GOLD",
+      "name": "Gold",
+      "ticker": "GC=F",
+      "asset_class": "Metal",
+      "note": "Front-month future; includes roll effects."
+    },
+    {
+      "key": "SILVER",
+      "name": "Silver",
+      "ticker": "SI=F",
+      "asset_class": "Metal",
+      "note": "Front-month future; includes roll effects."
+    },
+    {
+      "key": "BRENT",
+      "name": "Brent",
+      "ticker": "BZ=F",
+      "asset_class": "Energy",
+      "note": "Front-month future; includes roll effects."
+    },
+    {
+      "key": "WTI",
+      "name": "WTI",
+      "ticker": "CL=F",
+      "asset_class": "Energy",
+      "note": "Front-month future; includes roll effects."
+    }
+  ]
+}

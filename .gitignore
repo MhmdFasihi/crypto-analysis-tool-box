@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Local price cache and generated decks -- rebuild with `make report`
+data_cache/
+report/dist/

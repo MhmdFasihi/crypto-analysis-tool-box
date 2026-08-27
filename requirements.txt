@@ -1,0 +1,9 @@
+# Analytics + report pipeline
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+yfinance>=0.2.40
+pyarrow>=14.0        # parquet price cache
+
+# Tests
+pytest>=7.4
